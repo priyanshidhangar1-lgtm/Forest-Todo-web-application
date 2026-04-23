@@ -7,24 +7,22 @@ A full-stack todo application where completing tasks grows a magical forest 🌿
 * Frontend: HTML, CSS, JavaScript
 * Backend: Node.js, Express.js
 * Storage: JSON file (file-based persistence)
-🚀 How to Run
 
-Backend
+🚀 How to Run
+Backend:
 
 cd backend
 npm install
 npm start
-```
-Frontend
+
+Frontend:
 cd frontend
 npx http-server . -p 3000
 
-
 Open:
-
 http://localhost:3000
 
- 🔌 API Endpoints
+🔌 API Endpoints
 
 * GET /api/tasks
 * POST /api/tasks
